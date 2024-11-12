@@ -1,0 +1,1 @@
+The goal of this project is to build an AI model that predicts U.S. locations based on energy consumption data using the "Utility Energy Registry Monthly Community Energy Use" dataset. By analyzing energy usage patterns across different communities, the model will be able to identify the most likely geographical area (geo-reference) based on energy consumption behaviour
